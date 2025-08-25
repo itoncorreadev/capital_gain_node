@@ -1,0 +1,11 @@
+{
+  "name": "capital-gain",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
