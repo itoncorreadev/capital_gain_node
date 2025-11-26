@@ -17,9 +17,6 @@ Este projeto implementa uma calculadora de imposto para operações de compra e 
 - **Testes automatizados:**  
   Utilizamos Jest para garantir a robustez da solução, cobrindo casos de compra, venda com lucro ou prejuízo, além das regras de isenção de imposto.
 
-- **Uso de Ruby puro:**  
-  Não foram usados frameworks web, apenas bibliotecas necessárias para teste (Jest). O projeto foca em lógica de negócio e processamento de JSON/arquivos.
-
 ---
 
 ## 🗂️ Estrutura do Projeto
